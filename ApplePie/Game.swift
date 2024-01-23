@@ -11,6 +11,6 @@ struct Game {
     var word: String
     var incorrectMovesRemaining: Int
 }
-//the change to be observed
+//the change  observed
 
 
